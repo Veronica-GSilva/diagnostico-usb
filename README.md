@@ -83,7 +83,7 @@ Após toda a jornada de testes, o veredito sobre o pendrive é claro:
 2.  **Hardware de Péssima Qualidade:** Independentemente da capacidade real, a velocidade de escrita de ~1 MB/s o torna praticamente inútil para qualquer uso moderno. Essa lentidão é um sintoma clássico de componentes de baixíssima qualidade.
 3.  **Não Confiável:** Um dispositivo com essas características não é confiável para armazenar nenhum tipo de dado, pois o risco de falha e corrupção é iminente.
 
-**A lição mais importante é: se um pendrive ou cartão de memória parece bom demais para ser verdade, ele provavelmente não é.**
+**A lição mais importante é: se um pendrive ou cartão de memória parece bom demais para ser verdade... ele provavelmente é mesmo bom demais ($$) pra ser verdade.**
 
 ## 📚 Recursos e Links para Download
 
