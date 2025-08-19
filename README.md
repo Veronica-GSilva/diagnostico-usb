@@ -87,5 +87,9 @@ Após toda a jornada de testes, o veredito sobre o pendrive é claro:
 
 ## 📚 Recursos e Links para Download
 
+Pra ver a lista de links dos softwares usados nesse gui e recomendações de marcas confiáveis de pendrives, acesse a nossa página de recursos:
+
+### ➡️ [Clique aqui para ver os Recursos e Links Úteis](./RECURSOS.md)
+
 
 
